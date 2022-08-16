@@ -11,12 +11,15 @@ Repo to course work done in college
 </thead>
 <tbody>
   <tr>
-    <td rowspan="5" align="center">2</td>
-    <td rowspan="2" align="center">3</td>
+    <td rowspan="7" align="center">2</td>
+    <td rowspan="3" align="center">3</td>
     <td><a href="Year 2/Semester 3/OOP/">Object Oriented Programming</a></td>
   </tr>
   <tr>
     <td><a href="Year 2/Semester 3/Data Structures/">Data Structures</a></td>
+  </tr>
+    <tr>
+    <td><a href="Year 2/Semester 3/DS/">Data Science</a></td>
   </tr>
   <tr>
     <td rowspan="4" align="center">5</td>
