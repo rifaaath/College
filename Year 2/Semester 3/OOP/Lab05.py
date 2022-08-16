@@ -1,0 +1,13 @@
+from numpy import *
+a=array([10,20,30,40])
+print(a)
+print("Min Index: {}".format(a.argmin()))
+print("Max Index: {}".format(a.argmax()))
+print("Max: {}".format(a.max()))
+print("Min: {}".format(a.min()))
+print("Transpose: {}".format(a.transpose()))
+print("Sum: {}".format(sum(a)))
+print("Average: {}".format(mean(a)))
+b=matrix('1 2;3 4')
+print(b)
+print("Diagonal: {}".format(b.diagonal()))

@@ -5,11 +5,13 @@ Data Structures
 <table>
 <thead>
   <tr>
+    <th>Type</th>
     <th>Program Name</th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td rowspan="19" align="center">Practice</td>
     <td rowspan="8" align="center">Easy</td>
     <td><a href="Year 2/Semester 3/Data Structures/Class01.c">Sum of n numbers</a></td>
   </tr>
@@ -65,6 +67,54 @@ Data Structures
   <tr>
     <td><a href="Year 2/Semester 3/Data Structures/Prg10.c">Data of n students</a></td>
   </tr>
+  <tr>
+    <td rowspan="14" align="center">Lab Programs</td>
+    <td><a href="Year 2/Semester 3/Data Structures/LL.c">Singly LL</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/DLL.c">Doubly LL</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/CLL.c">Circular LL</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab04.c">Employee Structure</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab02.c">Student Structure (n students)</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab03.c">Palindrome using stack</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab01.c">Postfix Evaluation</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab05.c">Basic queue</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab06.c">Fibonacci</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab07.c">Infix to Postfix</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab09.c">Stack (Array)</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab08.c">Stack (Structure)</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab10.c">Book Structure</a></td>
+  </tr>
+  <tr>
+    <td><a href="Year 2/Semester 3/Data Structures/Lab11.c">Book Structure (Pointer)</a></td>
+  </tr>
+
+  
+  
+
+  
   
   
   
