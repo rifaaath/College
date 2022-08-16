@@ -19,7 +19,7 @@ Repo to course work done in college
     <td><a href="Year 2/Semester 3/Data Structures/">Data Structures</a></td>
   </tr>
   <tr>
-    <td rowspan="4" align="center">5</td>
+    <td rowspan="4" align="center">4</td>
     <td><a href="Year 2/Semester 4/DAA/">Design and Analysis of Algorithms</a></td>
   </tr>
   <tr>
