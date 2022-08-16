@@ -1,5 +1,5 @@
 
-# DAA
+# DS
 Data Structures
 
 <table>
