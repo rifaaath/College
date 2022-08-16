@@ -13,7 +13,7 @@ Repo to course work done in college
   <tr>
     <td rowspan="5" align="center">2</td>
     <td rowspan="2" align="center">3</td>
-    <td><a href="Year 2/Semester 3/Object Oriented Programming/">Object Oriented Programming</a></td>
+    <td><a href="Year 2/Semester 3/OOP/">Object Oriented Programming</a></td>
   </tr>
   <tr>
     <td><a href="Year 2/Semester 3/Data Structures/">Data Structures</a></td>

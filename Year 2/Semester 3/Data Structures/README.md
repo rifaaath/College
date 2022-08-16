@@ -1,5 +1,5 @@
 
-# DAA
+# DS
 Data Structures
 
 <table>
@@ -11,8 +11,7 @@ Data Structures
 </thead>
 <tbody>
   <tr>
-    <td rowspan="19" align="center">Practice</td>
-    <td rowspan="8" align="center">Easy</td>
+    <td rowspan="18" align="center">Practice</td>
     <td><a href="Year 2/Semester 3/Data Structures/Class01.c">Sum of n numbers</a></td>
   </tr>
   <tr>
@@ -37,7 +36,6 @@ Data Structures
     <td><a href="Year 2/Semester 3/Data Structures/Class08.c">Second largest element in array</a></td>
   </tr>
   <tr>
-    <td rowspan="11" align="center">Medium</td>
     <td><a href="Year 2/Semester 3/Data Structures/Prg1.c">Greatest of 2 numbers</a></td>
   </tr>
   <tr>
