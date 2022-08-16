@@ -12,8 +12,7 @@ OOP with python
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" align="center">Practice</td>
-    <td rowspan="2" align="center"></td>
+    <td rowspan="2" colspan="2" align="center">Practice</td>
     <td><a href="Year 2/Semester 3/OOP/Lab05.py">Numpy matrix</a></td>
   </tr>
   <tr>
