@@ -12,7 +12,7 @@ Data Structures
 <tbody>
   <tr>
     <td rowspan="18" align="center">Practice</td>
-    <td><a href="Year 2/Semester 3/Data Structures/Class01.c">Sum of n numbers</a></td>
+    <td><a href="Class01.c">Sum of n numbers</a></td>
   </tr>
   <tr>
     <td><a href="Year 2/Semester 3/Data Structures/Class02.c">User input for different data types</a></td>
