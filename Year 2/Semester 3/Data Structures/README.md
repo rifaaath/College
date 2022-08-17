@@ -11,17 +11,11 @@ Data Structures
 </thead>
 <tbody>
   <tr>
-    <td rowspan="18" align="center">Practice</td>
-    <td><a href="Class01.c">Sum of n numbers</a></td>
-  </tr>
-  <tr>
+    <td rowspan="16" align="center">Practice</td>
     <td><a href="Class02.c">User input for different data types</a></td>
   </tr>
   <tr>
     <td><a href="Class03.c">Swap using pointer</a></td>
-  </tr>
-  <tr>
-    <td><a href="Class04.c">Swap using pointers in function</a></td>
   </tr>
   <tr>
     <td><a href="Class05.c">Days of the week</a></td>
@@ -54,7 +48,7 @@ Data Structures
     <td><a href="Prg6.c">Armstrong numbers in a given range</a></td>
   </tr>
   <tr>
-    <td><a href="Prg7.c">Palindrome</a></td>
+    <td><a href="Prg7.c">Palindrome string</a></td>
   </tr>
   <tr>
     <td><a href="Prg8.c">Check if numbers are equal</a></td>
@@ -65,8 +59,10 @@ Data Structures
   <tr>
     <td><a href="Prg10.c">Data of n students</a></td>
   </tr>
+  
+  
   <tr>
-    <td rowspan="15" align="center">Lab Programs</td>
+    <td rowspan="21" align="center">Lab Programs</td>
     <td><a href="LL.c">Singly LL</a></td>
   </tr>
   <tr>
@@ -76,16 +72,31 @@ Data Structures
     <td><a href="CLL.c">Circular LL</a></td>
   </tr>
   <tr>
+    <td><a href="Class04.c">Swap using functions and pointers/a></td>
+  </tr>
+  <tr>
+    <td><a href="Class01.c">Sum of array using pointers</a></td>
+  </tr>
+  <tr>
     <td><a href="Lab04.c">Employee Structure</a></td>
   </tr>
   <tr>
     <td><a href="Lab02.c">Student Structure (n students)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab03.c">Palindrome using stack</a></td>
+    <td><a href="Lab03.c">Palindrome (using stack)</a></td>
   </tr>
   <tr>
     <td><a href="Lab01.c">Postfix Evaluation</a></td>
+  </tr>
+  <tr>
+    <td><a href="fact.c">Factorial (Recursive)</a></td>
+  </tr>
+  <tr>
+    <td><a href="Lab06.c">Fibonacci (Recursive)</a></td>
+  </tr>
+  <tr>
+    <td><a href="binarys.c">Binary search (Recursive)</a></td>
   </tr>
   <tr>
     <td><a href="Lab05.c">Queue (Array)</a></td>
@@ -94,7 +105,10 @@ Data Structures
     <td><a href="queue_struct.c">Queue (Structure)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab06.c">Fibonacci</a></td>
+    <td><a href="cirq.c">Circular Queue</a></td>
+  </tr>
+  <tr>
+    <td><a href="priq.c">Priority Queue</a></td>
   </tr>
   <tr>
     <td><a href="Lab07.c">Infix to Postfix</a></td>
