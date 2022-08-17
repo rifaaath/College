@@ -66,7 +66,7 @@ Data Structures
     <td><a href="Prg10.c">Data of n students</a></td>
   </tr>
   <tr>
-    <td rowspan="14" align="center">Lab Programs</td>
+    <td rowspan="15" align="center">Lab Programs</td>
     <td><a href="LL.c">Singly LL</a></td>
   </tr>
   <tr>
@@ -89,6 +89,9 @@ Data Structures
   </tr>
   <tr>
     <td><a href="Lab05.c">Queue (Array)</a></td>
+  </tr>
+  <tr>
+    <td><a href="queue_struct.c">Queue (Structure)</a></td>
   </tr>
   <tr>
     <td><a href="Lab06.c">Fibonacci</a></td>
