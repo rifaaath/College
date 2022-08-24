@@ -108,7 +108,7 @@ Data Structures
     <td><a href="cirq.c">Circular queue</a></td>
   </tr>
     <tr>
-    <td><a href="circdouble.c">Circular queue (Doubly)</a></td>
+    <td><a href="circdouble.c">Circular queue (Doubly LL)</a></td>
   </tr>
   <tr>
     <td><a href="priq.c">Priority queue</a></td>
