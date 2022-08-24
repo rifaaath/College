@@ -62,7 +62,7 @@ Data Structures
   
   
   <tr>
-    <td rowspan="24" align="center">Lab Programs</td>
+    <td rowspan="25" align="center">Lab Programs</td>
     <td><a href="LL.c">Singly LL</a></td>
   </tr>
   <tr>
