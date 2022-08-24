@@ -62,7 +62,7 @@ Data Structures
   
   
   <tr>
-    <td rowspan="21" align="center">Lab Programs</td>
+    <td rowspan="22" align="center">Lab Programs</td>
     <td><a href="LL.c">Singly LL</a></td>
   </tr>
   <tr>
@@ -78,16 +78,16 @@ Data Structures
     <td><a href="Class01.c">Sum of array using pointers</a></td>
   </tr>
   <tr>
-    <td><a href="Lab04.c">Employee Structure</a></td>
+    <td><a href="Lab04.c">Employee structure</a></td>
   </tr>
   <tr>
-    <td><a href="Lab02.c">Student Structure (n students)</a></td>
+    <td><a href="Lab02.c">Student structure (n students)</a></td>
   </tr>
   <tr>
     <td><a href="Lab03.c">Palindrome (using stack)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab01.c">Postfix Evaluation</a></td>
+    <td><a href="Lab01.c">Postfix evaluation</a></td>
   </tr>
   <tr>
     <td><a href="fact.c">Factorial (Recursive)</a></td>
@@ -105,13 +105,16 @@ Data Structures
     <td><a href="queue_struct.c">Queue (Structure)</a></td>
   </tr>
   <tr>
-    <td><a href="cirq.c">Circular Queue</a></td>
+    <td><a href="cirq.c">Circular queue</a></td>
+  </tr>
+    <tr>
+    <td><a href="circdouble.c">Circular queue (Doubly)</a></td>
   </tr>
   <tr>
-    <td><a href="priq.c">Priority Queue</a></td>
+    <td><a href="priq.c">Priority queue</a></td>
   </tr>
   <tr>
-    <td><a href="Lab07.c">Infix to Postfix</a></td>
+    <td><a href="Lab07.c">Infix to postfix</a></td>
   </tr>
   <tr>
     <td><a href="Lab09.c">Stack (Array)</a></td>
@@ -120,10 +123,10 @@ Data Structures
     <td><a href="Lab08.c">Stack (Structure)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab10.c">Book Structure</a></td>
+    <td><a href="Lab10.c">Book structure</a></td>
   </tr>
   <tr>
-    <td><a href="Lab11.c">Book Structure (Pointer)</a></td>
+    <td><a href="Lab11.c">Book structure (Pointer)</a></td>
   </tr>
 
   
