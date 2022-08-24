@@ -13,7 +13,7 @@ NODE first = NULL;
 NODE getnode()
 {
     NODE a = (NODE)malloc(sizeof(struct node));
-    a -> left = a -> right = NULL;
+    a -> left = a -> right = a;
     return a;
 }
 
@@ -25,11 +25,11 @@ void disp()
         return;
     }
     NODE temp = first;
-    while(temp!=NULL)
+    do
     {
         printf("%d ", temp->info);
-        temp = temp->right;
-    }
+        temp = temp -> right;
+    }while(temp!=first);
     printf("\n");
 }
 
@@ -42,9 +42,11 @@ void insBeg(int ele)
         first = a;
         return;
     }
-    a->right = first;
-    first->left = a;
-    first = a;
+   NODE last = first ->left;
+   a->right = first;
+   last->right = first->left = a;
+   a->left = last;
+   first = a;
 }
 
 void delEnd()
@@ -55,7 +57,7 @@ void delEnd()
         return;
     }
 
-    if(first->right == NULL)
+    if(first->right == first)
     {
         printf("Deleted: %d\n", first->info);
         free(first);
@@ -63,14 +65,13 @@ void delEnd()
         return;
     }
 
-    NODE temp = first, prev;
-    while(temp->right!=NULL)    
-        temp = temp->right;
+    NODE last = first -> left, prev = last->left;
+    prev->right = first;
+    last->right = last->left = last;
+    first->left = prev;
     
-    prev = temp->left;
-    prev->right = temp->left = NULL;
-    printf("Deleted: %d\n", temp->info);
-    free(temp);
+    printf("Deleted: %d\n", last->info);
+    free(last);
 }
 
 void main()
