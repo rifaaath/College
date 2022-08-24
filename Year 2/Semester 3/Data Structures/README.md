@@ -72,7 +72,7 @@ Data Structures
     <td><a href="CLL.c">Circular LL</a></td>
   </tr>
   <tr>
-    <td><a href="Class04.c">Swap using functions and pointers/a></td>
+    <td><a href="Class04.c">Swap using functions and pointers></td>
   </tr>
   <tr>
     <td><a href="Class01.c">Sum of array using pointers</a></td>
@@ -127,6 +127,15 @@ Data Structures
   </tr>
   <tr>
     <td><a href="Lab11.c">Book structure (Pointer)</a></td>
+  </tr>
+  <tr>
+    <td><a href="bt.c">Binary tree</a></td>
+  </tr>
+  <tr>
+    <td><a href="et.c">Expression tree</a></td>
+  </tr>
+  <tr>
+    <td><a href="bst.c">Binary search tree</a></td>
   </tr>
 
   
