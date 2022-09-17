@@ -50,13 +50,13 @@ Artificial Intelligence
     <td><a href="Lab02.ipynb">KNN (Label encoding)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab02.ipynb">Weather prediction (Rain today)</a></td>
+    <td><a href="Lab02.ipynb">Weather prediction classification report (Rain today)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab02.ipynb">Weather prediction (Rain tomorrow)</a></td>
+    <td><a href="Lab02.ipynb">Weather prediction classification report (Rain tomorrow)</a></td>
   </tr>
   <tr>
-    <td><a href="Lab02.ipynb">Weather prediction (Comparison of KNN and decision tree)</a></td>
+    <td><a href="Lab02.ipynb">Weather prediction (KNN and decision tree heatmap)</a></td>
   </tr>
   
   
