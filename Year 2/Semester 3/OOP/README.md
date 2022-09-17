@@ -5,8 +5,7 @@ OOP with python
 <table>
 <thead>
   <tr>
-    <th>Type</th>
-    <th></th>
+    <td rowspan="1" colspan="2" align="center">Type</td>
     <th>Program Name</th>
   </tr>
 </thead>
