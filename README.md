@@ -2,8 +2,7 @@
 Repo to course work done in college
 
 <br></br>
-<details>
-  <summary>Laboratory practicals</summary>
+  <summary>⊝ Laboratory practicals ⊝</summary>
   <br></br>
   <table>
   <thead>
@@ -47,11 +46,9 @@ Repo to course work done in college
 
 </tbody>
 </table>
-</details>
 <br></br>
 
-<details>
-  <summary>Theory</summary>
+  <summary>⊝ Theory ⊝</summary>
   <br></br>
   <table>
   <thead>
@@ -104,4 +101,3 @@ Repo to course work done in college
 
 </tbody>
 </table>
-</details>
