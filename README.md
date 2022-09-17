@@ -37,6 +37,13 @@ Repo to course work done in college
       <tr>
       <td><a href="Year 2/Semester 4/CPP/README.md">C++</a></td>
     </tr>
+    <tr>
+      <td rowspan="2" align="center">3</td>
+      <td rowspan="2" align="center">5</td>
+      <td><a href="Year 3/Semester 5/OOP/README.md">Pattern and visual recognition</a></td>
+    </tr>
+    <td><a href="Year 3/Semester 5/OOP/README.md">Machine Learning</a></td>
+    
 
 
 
