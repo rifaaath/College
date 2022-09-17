@@ -1,8 +1,10 @@
 # College
 Repo to course work done in college
 
+<br></br>
 <details>
   <summary>Laboratory practicals</summary>
+  <br></br>
   <table>
   <thead>
     <tr>
@@ -46,9 +48,11 @@ Repo to course work done in college
 </tbody>
 </table>
 </details>
+<br></br>
 
 <details>
   <summary>Theory</summary>
+  <br></br>
   <table>
   <thead>
     <tr>
