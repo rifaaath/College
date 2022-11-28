@@ -69,35 +69,32 @@ Repo to course work done in college
     <tr>
       <td rowspan="10" align="center">2</td>
       <td rowspan="5" align="center">3</td>
-      <td><a href="https://www.icloud.com/iclouddrive/0adobhoKlBAXnSrNi15_xIcvQ#OOP">Object Oriented Programming</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Object Oriented Programming</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/074CvPhngCzxhQtM3KZSAsfIg#DS">Data Structures</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1E67iobJV-q56_XHE8iM-KDttQw9KllsM?usp=share_link">Data Structures</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/01aCKJOLbgt_M4ufAmujZ5Pvg#DCO">Digital Computer Organization</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1aFOUaPXoa2rpw7IX_RnljsPrBC_iX7gH?usp=share_link">Digital Computer Organization</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/0eeckBdlx1QwGR3W1TxeVTfMw#Maths">Discrete Mathematical Structures</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/005cv3m8By1cUwKK9OVBfqzOQ#DS_LAB">Data Science</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Discrete Mathematical Structures</a></td>
     </tr>
     <tr>
       <td rowspan="5" align="center">4</td>
-      <td><a href="https://www.icloud.com/iclouddrive/0acYlCuYHcntM5IXy0VPcmsXQ#DAA">Design and Analysis of Algorithms</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1we6ceBVfoWCspvH4TAFQK4MGa33pKOss?usp=share_link">Design and Analysis of Algorithms</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/0f0UKW69A_U9u3WKJqdZ0R65A#DBMS">Database Management Systems</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1we6ceBVfoWCspvH4TAFQK4MGa33pKOss?usp=share_link">Database Management Systems</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/09fim51azMko-UTAHFba1Ey_A#AI">Artificial Intelligence</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1JklrR33zfOlERCY48gj8KIZ7byx0xwXe?usp=share_link">Artificial Intelligence</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/090Kc15aKYxMhFuSfSex9V8xA#OS">Operating Systems</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1U4Jb-z5F7P8oUYdIGZ3QsztdXg5UxWHu?usp=share_link">Operating Systems</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.icloud.com/iclouddrive/028VC-xbCf0gZLUbiSnUAAwmg#Maths">Linear Algrebra and Probability Theory</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
 
 
