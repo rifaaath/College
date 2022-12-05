@@ -38,12 +38,16 @@ Repo to course work done in college
       <td><a href="Year 2/Semester 4/CPP/README.md">C++</a></td>
     </tr>
     <tr>
-      <td rowspan="4" align="center">3</td>
-      <td rowspan="4" align="center">5</td>
-      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
+      <td rowspan="3" align="center">3</td>
+      <td rowspan="3" align="center">5</td>
+        <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
-    <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
-    <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+    <tr>
+        <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
+    </tr>
+    <tr>
+        <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+    </tr>
     
 
 
@@ -102,8 +106,12 @@ Repo to course work done in college
       <td rowspan="4" align="center">5</td>
       <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
-    <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
-    <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+    <tr>
+        <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
+    </tr>
+    <tr>
+        <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+    </tr>
     
 
 
