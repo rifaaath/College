@@ -68,7 +68,7 @@ Repo to course work done in college
   </thead>
   <tbody>
     <tr>
-      <td rowspan="9" align="center">2</td>
+      <td rowspan="8" align="center">2</td>
       <td rowspan="4" align="center">3</td>
       <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Object Oriented Programming</a></td>
     </tr>
