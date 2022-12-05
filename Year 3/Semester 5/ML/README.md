@@ -32,28 +32,28 @@ Artificial Intelligence
     <td><a href="Lab02.ipynb">Principal Component Analysis</a></td>
   </tr>
   <tr>
-    <td><a href="Lab03.ipynb">Hyperparameter tuning</a></td>
+    <td><a href="Lab03.ipynb">Hyperparameter Tuning</a></td>
   </tr>
   <tr>
     <td><a href="Lab04.ipynb">Pipeline</td>
   </tr>
   <tr>
-    <td><a href="Lab05.ipynb">Text data processing using TfidVectorizer</a></td>
+    <td><a href="Lab05.ipynb">Text-data Processing using TfidVectorizer</a></td>
   </tr>
   <tr>
     <td><a href="Lab06.ipynb">Market Basket Analysis using Apriori</a></td>
   </tr>
   <tr>
-    <td><a href="Lab07.ipynb">Loan state prediction using SVM</a></td>
+    <td><a href="Lab07.ipynb">Loan State Prediction using SVM</a></td>
   </tr>
   <tr>
-    <td><a href="Lab08.ipynb">Ensemble techniques using Random Forest</a></td>
+    <td><a href="Lab08.ipynb">Ensemble Techniques using Random Forest</a></td>
   </tr>
   <tr>
-    <td><a href="Lab09.ipynb">Ensemble techniques using ADABOOST</a></td>
+    <td><a href="Lab09.ipynb">Ensemble Techniques using ADABOOST</a></td>
   </tr>
   <tr>
-    <td><a href="Lab10.ipynb">Real time review from IMDB using API</a></td>
+    <td><a href="Lab10.ipynb">Real-time Review from IMDB using API</a></td>
   </tr>
   
   
