@@ -99,8 +99,8 @@ Repo to course work done in college
     </tr>
     
     <tr>
-      <td rowspan="7" align="center">3</td>
-      <td rowspan="7" align="center">5</td>
+      <td rowspan="1" align="center">3</td>
+      <td rowspan="1" align="center">5</td>
       <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Machine Learning</a></td>
     </tr>
     
