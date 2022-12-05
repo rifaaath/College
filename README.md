@@ -68,7 +68,7 @@ Repo to course work done in college
   </thead>
   <tbody>
     <tr>
-      <td rowspan="8" align="center">2</td>
+      <td rowspan="9" align="center">2</td>
       <td rowspan="4" align="center">3</td>
       <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Object Oriented Programming</a></td>
     </tr>
@@ -97,12 +97,13 @@ Repo to course work done in college
     <tr>
       <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
-    
     <tr>
-      <td rowspan="1" align="center">3</td>
-      <td rowspan="1" align="center">5</td>
-      <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Machine Learning</a></td>
+      <td rowspan="3" align="center">3</td>
+      <td rowspan="3" align="center">5</td>
+      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
+    <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
+    <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
     
 
 
