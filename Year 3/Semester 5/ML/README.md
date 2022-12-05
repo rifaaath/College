@@ -1,6 +1,6 @@
 
-# AI
-Artificial Intelligence
+# ML
+Machine Learning
 
 <table>
 <thead>
