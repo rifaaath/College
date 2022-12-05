@@ -40,7 +40,7 @@ Repo to course work done in college
     <tr>
       <td rowspan="3" align="center">3</td>
       <td rowspan="3" align="center">5</td>
-        <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
+        <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and Visual Recognition</a></td>
     </tr>
     <tr>
         <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
@@ -104,7 +104,7 @@ Repo to course work done in college
     <tr>
       <td rowspan="4" align="center">3</td>
       <td rowspan="4" align="center">5</td>
-      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
+      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and Visual Recognition</a></td>
     </tr>
     <tr>
         <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
