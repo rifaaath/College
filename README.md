@@ -38,11 +38,12 @@ Repo to course work done in college
       <td><a href="Year 2/Semester 4/CPP/README.md">C++</a></td>
     </tr>
     <tr>
-      <td rowspan="2" align="center">3</td>
-      <td rowspan="2" align="center">5</td>
-      <td><a href="Year 3/Semester 5/OOP/README.md">Pattern and visual recognition</a></td>
+      <td rowspan="3" align="center">3</td>
+      <td rowspan="3" align="center">5</td>
+      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
-    <td><a href="Year 3/Semester 5/OOP/README.md">Machine Learning</a></td>
+    <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
+    <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
     
 
 
@@ -96,6 +97,31 @@ Repo to course work done in college
     <tr>
       <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
+    
+    <tr>
+      <td rowspan="7" align="center">3</td>
+      <td rowspan="7" align="center">5</td>
+      <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Machine Learning</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1E67iobJV-q56_XHE8iM-KDttQw9KllsM?usp=share_link">Internet of Things</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1aFOUaPXoa2rpw7IX_RnljsPrBC_iX7gH?usp=share_link">Pattern and Visual Recognition</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Big Data Analytics</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Computer Network and Communication</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Image and Video Processing</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Angular and ReactJS</a></td>
+    </tr>
+    
 
 
 
