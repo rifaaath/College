@@ -103,24 +103,6 @@ Repo to course work done in college
       <td rowspan="7" align="center">5</td>
       <td><a href="https://drive.google.com/drive/folders/1WMD4NjG7wU18EaBmNAga5ogMesNArVje?usp=share_link">Machine Learning</a></td>
     </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1E67iobJV-q56_XHE8iM-KDttQw9KllsM?usp=share_link">Internet of Things</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1aFOUaPXoa2rpw7IX_RnljsPrBC_iX7gH?usp=share_link">Pattern and Visual Recognition</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Big Data Analytics</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Computer Network and Communication</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Image and Video Processing</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/drive/folders/1aES26g25hRoV9Zs7M8uqI48GfVvY7HO5?usp=share_link">Angular and ReactJS</a></td>
-    </tr>
     
 
 
