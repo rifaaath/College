@@ -102,15 +102,24 @@ Repo to course work done in college
       <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
     <tr>
-      <td rowspan="4" align="center">3</td>
-      <td rowspan="4" align="center">5</td>
-      <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and Visual Recognition</a></td>
+      <td rowspan="6" align="center">3</td>
+      <td rowspan="6" align="center">5</td>
+      <td><a href="https://drive.google.com/drive/folders/1dAhgbrLXe1PlmQdO-x45aEsn3-7JlPfF?usp=share_link">Pattern and Visual Recognition</a></td>
     </tr>
     <tr>
-        <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
+        <td><a href="https://drive.google.com/drive/folders/197v6Z3vzmrcA0lHnupGpFODPdgXFmi8S?usp=share_link">Machine Learning</a></td>
     </tr>
     <tr>
-        <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+        <td><a href="https://drive.google.com/drive/folders/1OZfW6HEaBZa3k2hlGYw1l2QXLFpSqK6T?usp=share_link">Internet of Things</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/1XSLrop5ElVNG0iBQ_9Ejo-W-kGgXiX0b?usp=share_link">Big Data Analytics</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/1z-dn7Ag0tCM0NxhXBZJHwE7lOzkz0AWr?usp=share_link">Computer Network and Communication</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/1SIMrmzh_Kfv2YHV56hzNDYBGdnHLCu1o?usp=share_link">Image and Video Processing</a></td>
     </tr>
     
 
