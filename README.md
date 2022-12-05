@@ -38,8 +38,8 @@ Repo to course work done in college
       <td><a href="Year 2/Semester 4/CPP/README.md">C++</a></td>
     </tr>
     <tr>
-      <td rowspan="3" align="center">3</td>
-      <td rowspan="3" align="center">5</td>
+      <td rowspan="4" align="center">3</td>
+      <td rowspan="4" align="center">5</td>
       <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
     <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
@@ -98,8 +98,8 @@ Repo to course work done in college
       <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
     <tr>
-      <td rowspan="3" align="center">3</td>
-      <td rowspan="3" align="center">5</td>
+      <td rowspan="4" align="center">3</td>
+      <td rowspan="4" align="center">5</td>
       <td><a href="Year 3/Semester 5/PVR/README.md">Pattern and visual recognition</a></td>
     </tr>
     <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
