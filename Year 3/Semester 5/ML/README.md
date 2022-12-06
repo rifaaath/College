@@ -11,11 +11,14 @@ Machine Learning
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4" align="center">Dataset</td>
+    <td rowspan="5" align="center">Dataset</td>
     <td><a href="https://drive.google.com/uc?id=1hGvavGU4GZVv-yclEMVx3E9kXDed8hbq&export=download">Credit card</a></td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/uc?id=1_EDoCOuv2nv5dDFap0kzYRYDMzJbjrxp&export=download">Loan</a></td>
+  </tr>
+    <tr>
+    <td><a href="https://drive.google.com/uc?id=1gBaWTGiFe8iVIC0vSexSBWI9JKjHcJkm&export=download">Market Basket Analysis (Apriori)</a></td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/uc?id=1Uj1zuAlokmJFqOkmOvGX0pcP8LCWQFlN&export=download">Fake news</a></td>
