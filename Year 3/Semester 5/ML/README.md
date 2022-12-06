@@ -41,7 +41,7 @@ Machine Learning
     <td><a href="Lab04.ipynb">Pipeline</td>
   </tr>
   <tr>
-    <td><a href="Lab05.ipynb">Text-data Processing using TfidVectorizer</a></td>
+    <td><a href="Lab05.ipynb">Text-data Processing using CountVectorizer</a></td>
   </tr>
   <tr>
     <td><a href="Lab06.ipynb">Market Basket Analysis using Apriori</a></td>
