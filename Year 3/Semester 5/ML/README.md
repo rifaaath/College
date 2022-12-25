@@ -5,13 +5,13 @@ Machine Learning
 <table>
 <thead>
   <tr>
-    <th>Type</th>
-    <th>Name</th>
+    <td rowspan="2" colspan="2" align="center">Type</td>
+    <th>Program Name</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="5" align="center">Dataset</td>
+    <td rowspan="6" align="center">Dataset</td>
     <td><a href="https://drive.google.com/uc?id=1hGvavGU4GZVv-yclEMVx3E9kXDed8hbq&export=download">Credit card</a></td>
   </tr>
   <tr>
@@ -24,39 +24,59 @@ Machine Learning
     <td><a href="https://drive.google.com/uc?id=1Uj1zuAlokmJFqOkmOvGX0pcP8LCWQFlN&export=download">Fake news</a></td>
   </tr>
   <tr>
+      <td><a href="https://drive.google.com/uc?id=1TXjoSFCrpP2SvTLUCrBVsSIu1XqxIItq&export=download">BFI</a></td>
+  </tr>
+  <tr>
     <td><a href="https://drive.google.com/uc?id=1SLUgzWH_zq8uHH4wEOkMx2Jjrqi2x2ee&export=download">Heart disease</a></td>
   </tr>
   
   <tr>
-    <td rowspan="10" align="center">Lab Programs</td>
+    <td rowspan="15" align="center">Lab Programs</td>
+    <td rowspan="7" align="center">Part A</td>
     <td><a href="Lab01.ipynb">Random sampling and SMOTE analysis</a></td>
   </tr>
   <tr>
-    <td><a href="Lab02.ipynb">Principal Component Analysis</a></td>
+    <td><a href="Lab02.ipynb">Feature scaling</a></td>
   </tr>
   <tr>
-    <td><a href="Lab03.ipynb">Hyperparameter Tuning</a></td>
+    <td><a href="Lab03.ipynb">Principal Component Analysis</a></td>
   </tr>
   <tr>
-    <td><a href="Lab04.ipynb">Pipeline</td>
+    <td><a href="Lab04.ipynb">Hyperparameter Tuning</td>
   </tr>
   <tr>
-    <td><a href="Lab05.ipynb">Text-data Processing using CountVectorizer</a></td>
+    <td><a href="Lab05.ipynb">Pipeline</a></td>
   </tr>
   <tr>
-    <td><a href="Lab06.ipynb">Market Basket Analysis using Apriori</a></td>
+    <td><a href="Lab06.ipynb">Text-data Processing using TfidVectorizer</a></td>
   </tr>
   <tr>
-    <td><a href="Lab07.ipynb">Loan State Prediction using SVM</a></td>
+    <td><a href="Lab07.ipynb">Dimensionality Reduction using Factor Anlaysis</a></td>
+  </tr>
+    <tr>
+    <td rowspan="5" align="center">Part B</td>
+    <td><a href="Lab08.ipynb">Fake news Prediction using Naive Bayes and Logistic Regression</a></td>
   </tr>
   <tr>
-    <td><a href="Lab08.ipynb">Ensemble Techniques using Random Forest</a></td>
+    <td><a href="Lab09.ipynb">Market Basket Analysis using Apriori</a></td>
   </tr>
   <tr>
-    <td><a href="Lab09.ipynb">Ensemble Techniques using ADABOOST</a></td>
+    <td><a href="Lab10.ipynb">Multiple Regression</a></td>
   </tr>
-  <tr>
-    <td><a href="Lab10.ipynb">Real-time Review from IMDB using API</a></td>
+    <tr>
+    <td><a href="Lab11.ipynb">Loan State Prediction using SVM</a></td>
+  </tr>
+    <tr>
+    <td><a href="Lab12.ipynb">Customer Segmentation using K means </a></td>
+  </tr>
+    <tr>
+    <td><a href="Lab13.ipynb">Ensemble Techniques using Random Forest</a></td>
+  </tr>
+    <tr>
+    <td><a href="Lab14.ipynb">Ensemble Techniques using ADABOOST</a></td>
+  </tr>
+    <tr>
+    <td><a href="Lab15.ipynb">Real-time Review from IMDB using API</a></td>
   </tr>
   
   
