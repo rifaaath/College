@@ -54,7 +54,7 @@ Machine Learning
     <td><a href="Lab07.ipynb">Dimensionality Reduction using Factor Anlaysis</a></td>
   </tr>
     <tr>
-    <td rowspan="5" align="center">Part B</td>
+    <td rowspan="8" align="center">Part B</td>
     <td><a href="Lab08.ipynb">Fake news Prediction using Naive Bayes and Logistic Regression</a></td>
   </tr>
   <tr>
