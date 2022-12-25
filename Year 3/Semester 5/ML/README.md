@@ -11,7 +11,7 @@ Machine Learning
 </thead>
 <tbody>
   <tr>
-    <td rowspan="6" align="center">Dataset</td>
+    <td rowspan="6" colspan="2" align="center">Dataset</td>
     <td><a href="https://drive.google.com/uc?id=1hGvavGU4GZVv-yclEMVx3E9kXDed8hbq&export=download">Credit card</a></td>
   </tr>
   <tr>
