@@ -5,7 +5,7 @@ Pattern and Visual Recognition
 <table>
 <thead>
 <tr>
-    <td rowspan="2" colspan="1" align="center">Type</td>
+    <td rowspan="2" colspan="2" align="center">Type</td>
     <th>Program Name</th>
 </tr>
 </thead>
