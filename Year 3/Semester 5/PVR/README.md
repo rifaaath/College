@@ -4,15 +4,15 @@ Pattern and Visual Recognition
 
 <table>
 <thead>
-<tr>https://drive.google.com/uc?id=1f0eDo02-eQtdgAqrbABR9cjI_NtvZsfy&export=download
+<tr>
     <td rowspan="2" colspan="2" align="center">Type</td>
     <th>Program Name</th>
-</tr>https://drive.google.com/file/d/1f0eDo02-eQtdgAqrbABR9cjI_NtvZsfy/view?usp=share_link
+</tr>
 </thead>
 <tbody>
     <tr>
     <td rowspan="2" colspan='2' align="center">Files</td>
-    <td><a href="Lab01.ipynb">YOLO Object Detection</a></td>
+    <td><a href="https://drive.google.com/uc?id=1rDrfXMgF7wjJoLW8VX1HGGaJJc8ql4IB&export=download">YOLO Object Detection</a></td>
   </tr>
       <tr>
     <td><a href="https://drive.google.com/uc?id=1f0eDo02-eQtdgAqrbABR9cjI_NtvZsfy&export=download">Haar-Cascade</a></td>
