@@ -15,7 +15,7 @@ Pattern and Visual Recognition
     <td><a href="https://drive.google.com/uc?id=1rDrfXMgF7wjJoLW8VX1HGGaJJc8ql4IB&export=download">YOLO Object Detection</a></td>
   </tr>
       <tr>
-    <td><a href="https://drive.google.com/uc?id=1f0eDo02-eQtdgAqrbABR9cjI_NtvZsfy&export=download">Haar-Cascade</a></td>
+    <td><a href="https://drive.google.com/uc?id=1f0eDo02-eQtdgAqrbABR9cjI_NtvZsfy&export=download">Haar-Cascade Face & Eye</a></td>
   </tr>
     <tr>
     <td rowspan="8" align="center">Lab Programs</td>
