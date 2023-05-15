@@ -13,7 +13,7 @@ Deep Learning
 
   <tr>
   <td rowspan="2" colspan=2 align="center">PDF Download</td>
-  <td><a href="https://drive.google.com/uc?id=1hGvavGU4GZVv-yclEMVx3E9kXDed8hbq&export=download">Program Wise</a></td>
+  <td><a href="https://drive.google.com/uc?id=1bjRgCxSXWNj1-O6hVC8k1d4DnA1rMfRe&export=download">Program Wise (ZIP File)</a></td>
   </tr>
   <td><a href="https://drive.google.com/uc?id=1iO51U5zJdmQLnCksPPM1juh_vQa4iGrq&export=download">Compiled (Single PDF)</a></td>
   </tr>
