@@ -38,7 +38,7 @@ Repo to course work done in college
       <td><a href="Year 2/Semester 4/CPP/README.md">C++</a></td>
     </tr>
     <tr>
-      <td rowspan="3" align="center">3</td>
+      <td rowspan="5" align="center">3</td>
       <td rowspan="3" align="center">5</td>
         <td><a href="Year 3/Semester 5/ML/README.md">Machine Learning</a></td>
     </tr>
@@ -47,6 +47,12 @@ Repo to course work done in college
     </tr>
     <tr>
         <td><a href="Year 3/Semester 5/IOT/README.md">Internet of Things</a></td>
+    </tr>
+    <td rowspan="2" align="center">6</td>
+        <td><a href="Year 3/Semester 6/DL/README.md">Deep Learning</a></td>
+    </tr>
+    <tr>
+        <td><a href="Year 3/Semester 6/NLP/README.md">Natural Language Processing</a></td>
     </tr>
     
 
@@ -102,7 +108,7 @@ Repo to course work done in college
       <td><a href="https://drive.google.com/drive/folders/1OBzpVXvoi-oCRuWs3lg1K7FtTAnXUFmP?usp=share_link">Linear Algrebra and Probability Theory</a></td>
     </tr>
     <tr>
-      <td rowspan="6" align="center">3</td>
+      <td rowspan="12" align="center">3</td>
       <td rowspan="6" align="center">5</td>
       <td><a href="https://drive.google.com/drive/folders/1dAhgbrLXe1PlmQdO-x45aEsn3-7JlPfF?usp=share_link">Pattern and Visual Recognition</a></td>
     </tr>
@@ -121,6 +127,24 @@ Repo to course work done in college
         <tr>
         <td><a href="https://drive.google.com/drive/folders/1SIMrmzh_Kfv2YHV56hzNDYBGdnHLCu1o?usp=share_link">Image and Video Processing</a></td>
     </tr>
+    <td rowspan="6" align="center">6</td>
+      <td><a href="https://drive.google.com/drive/folders/1jqsTLZCXeYYqbZCVxIpwrWWKwGWPWo7V?usp=share_link">Neural Networks and Deep Learning</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/drive/folders/19yGXxdNBrW2kMoqlhPtuKq2WicY-zAMf?usp=share_link">AI in Healthcare</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/1D8gV0fTeZ6_LGSjjr6YI0jyl6R4DpeHn?usp=share_link">Natural Language Processing</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://drive.google.com/drive/folders/1_d9DM2qsd-6fqz6uoJLbMm_ON-XTqHZ8?usp=sharing">Autonomous Systems</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/135Eg0Yk_7UTPDA2p5gPuPTrSkWwo9P9p?usp=share_link">Cloud Computing</a></td>
+    </tr>
+        <tr>
+        <td><a href="https://drive.google.com/drive/folders/1SXo9HmwfgnpCdfU3jpR6Kr4TsUdin-Vj?usp=share_link">Augmented and Virtual Reality</a></td>
     
 
 
