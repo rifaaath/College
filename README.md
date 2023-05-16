@@ -96,7 +96,7 @@ Repo to course work done in college
       <td><a href="https://drive.google.com/drive/folders/1we6ceBVfoWCspvH4TAFQK4MGa33pKOss?usp=share_link">Design and Analysis of Algorithms</a></td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/drive/folders/1we6ceBVfoWCspvH4TAFQK4MGa33pKOss?usp=share_link">Database Management Systems</a></td>
+      <td><a href="https://drive.google.com/drive/folders/1fJvFB6nk3X6yaO-SRIqkliR80hBvF__6?usp=share_link">Database Management Systems</a></td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/drive/folders/1JklrR33zfOlERCY48gj8KIZ7byx0xwXe?usp=share_link">Artificial Intelligence</a></td>
